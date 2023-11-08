@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ The mean calculator or the average calculator helps you to get the average value
 == Description ==
 
 The mean calculator or the average calculator helps you to get the average value of a data set. It divides the data values sum by the data values count to get the average (mean).
+
+__Shortcode__
+
+Use the Mean Calculator shortcode:
+
+`[ci_mean_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_mean_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Mean Calculator](https://www.calculator.io/mean-calculator/ "Mean Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Mean Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_mean_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Mean Calculator to the sidebar through the `Appearance -> Widgets -> Mean Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_mean_calculator(); ?>` to your template where you would like the Mean Calculator to appear.
 
 == Screenshots ==
 1. The Mean Calculator Input Form.
