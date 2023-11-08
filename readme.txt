@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Mean Calculator](https://www.calculator.io/mean-calculator/ "Mean Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_mean_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Mean Calculator to the sidebar through the `Appearance -> Widgets -> Mean Calculator` menu in WordPress.
+* Add the shortcode `[ci_mean_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_mean_calculator(); ?>` to your template where you would like the Mean Calculator to appear.
 
 == Screenshots ==
