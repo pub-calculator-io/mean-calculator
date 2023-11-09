@@ -13,6 +13,8 @@ The mean calculator or the average calculator helps you to get the average value
 
 The mean calculator or the average calculator helps you to get the average value of a data set. It divides the data values sum by the data values count to get the average (mean).
 
+[Mean Calculator Homepage](https://www.calculator.io/mean-calculator/ "Mean Calculator Homepage")
+
 __Shortcode__
 
 Use the Mean Calculator shortcode:
