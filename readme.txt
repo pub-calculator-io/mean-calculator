@@ -1,6 +1,6 @@
 === Mean Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: mean calculator, average calculator, arithmetic mean, statistical average, calculate mean, mean value, central tendency, mean of numbers, mean calculation, find mean
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
