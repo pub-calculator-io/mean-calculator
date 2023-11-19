@@ -7,7 +7,7 @@ The mean calculator or the average calculator helps you to get the average value
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/mean-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /mean-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Mean Calculator](https://www.calculator.io/mean-calculator/ "Mean Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
