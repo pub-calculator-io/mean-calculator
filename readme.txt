@@ -1,4 +1,4 @@
-=== Mean Calculator by www.calculator.io ===
+=== CI Mean calculator ===
 Contributors: calculatorio
 Tags: mean calculator, average calculator, arithmetic mean, statistical average, calculate mean, mean value, central tendency, mean of numbers, mean calculation, find mean
 Requires at least: 5.0

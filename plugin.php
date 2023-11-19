@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Mean Calculator by www.calculator.io
+Plugin Name: CI Mean calculator
 Plugin URI: https://www.calculator.io/mean-calculator/
 Description: The mean calculator or the average calculator helps you to get the average value of a data set. It divides the data values sum by the data values count to get the average (mean).
 Version: 1.0.0
