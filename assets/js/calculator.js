@@ -1,7 +1,7 @@
 function calculate() {
     const numbers = input.get('data_set').split(/[ ,]+/).numbers().vals();
     if(!Array.isArray(numbers) || numbers.length < 2)
-        input.error('data_set', 'Please provide at least two numbers.');
+        input.error('data_set', 'Provide at least two numbers.');
     if(!input.valid()) return;
 
     const sum = numbers.reduce((partialSum, a) => partialSum + a, 0);

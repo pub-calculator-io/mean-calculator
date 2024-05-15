@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Mean Calculator
 == Screenshots ==
 
 1. The Mean Calculator Input Form.
-2. The Mean Calculator Calculation Results.
 
 == Installation ==
 

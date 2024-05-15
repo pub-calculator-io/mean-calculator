@@ -3,7 +3,6 @@
 The mean calculator or the average calculator helps you to get the average value of a data set. It divides the data values sum by the data values count to get the average (mean).
 
 ![Mean Calculator Input Form](/assets/images/screenshot-1.png "Mean Calculator Input Form")
-![Mean Calculator Calculation Results](/assets/images/screenshot-2.png "Mean Calculator Calculation Results")
 
 ## Installation
 
